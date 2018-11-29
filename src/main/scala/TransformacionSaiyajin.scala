@@ -1,0 +1,5 @@
+trait TransformacionSaiyajin
+
+case object SuperSaiyajin extends TransformacionSaiyajin
+
+case object MonoSaiyajin extends TransformacionSaiyajin
